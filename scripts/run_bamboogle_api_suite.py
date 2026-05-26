@@ -19,10 +19,7 @@ from run_compare_origin_vs_nl_graph_batch import (
 )
 
 
-DEFAULT_CASES_PATH = (
-    "results/full_eval_equal_token_1536_20260517/qwen3/bamboogle/"
-    "bare_origin_mad/bamboogle_bare/cases.json"
-)
+DEFAULT_CASES_PATH = "data/bamboogle/cases.json"
 DEFAULT_OUTPUT_ROOT = "results/bamboogle_api_suite"
 DEFAULT_PROFILE = "bamboogle_relation_v7_equal_token"
 

@@ -2,6 +2,5 @@
 __pycache__/
 *.pyc
 results/bamboogle_api_suite*/
-Natural_Language_Graph_Debate_case5_claim_schema_nl_graph_mad_work_20260507_065013/results/bamboogle_api_suite*/
 token
 .env

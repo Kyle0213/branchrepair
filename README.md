@@ -5,7 +5,7 @@ This document describes how to run the full Bamboogle API evaluation suite with 
 ## What It Runs
 
 - Dataset: Bamboogle, sampled from the 125-case full set by default.
-- Cases file: `results/full_eval_equal_token_1536_20260517/qwen3/bamboogle/bare_origin_mad/bamboogle_bare/cases.json`.
+- Cases file: `data/bamboogle/cases.json`.
 - Round0 prompt style: `claim_atomic`.
 - Graph profile: `bamboogle_relation_v7_equal_token`.
 - Graph mode: graph-only, focus round 2.
@@ -15,10 +15,9 @@ This document describes how to run the full Bamboogle API evaluation suite with 
 
 ## Environment Setup
 
-From the extracted project root:
+From the repository root:
 
 ```bash
-cd Natural_Language_Graph_Debate_case5_claim_schema_nl_graph_mad_work_20260507_065013
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -U pip

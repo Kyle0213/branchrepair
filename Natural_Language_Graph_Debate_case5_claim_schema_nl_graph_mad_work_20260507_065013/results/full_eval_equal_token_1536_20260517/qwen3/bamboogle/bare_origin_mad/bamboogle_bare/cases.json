@@ -1,0 +1,1377 @@
+[
+  {
+    "unique_id": "bamboogle/test/test_0.json",
+    "problem": "Question:\nWho was president of the United States in the year that Citibank was founded?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "james madison"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_1.json",
+    "problem": "Question:\nWhat rocket was the first spacecraft that ever approached Uranus launched on?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Titan IIIE"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_2.json",
+    "problem": "Question:\nIn what year was the company that was founded as Sound of Music added to the S&P 500?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1999"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_3.json",
+    "problem": "Question:\nWho was the first African American mayor of the most populous city in the United States?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "David Dinkins"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_4.json",
+    "problem": "Question:\nWhen did the last king from Britain's House of Hanover die?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "20 June 1837"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_5.json",
+    "problem": "Question:\nWhen did the president who set the precedent of a two term limit enter office?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "April 30, 1789"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_6.json",
+    "problem": "Question:\nWhen did the president who set the precedent of a two term limit leave office?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "March 4, 1797"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_7.json",
+    "problem": "Question:\nHow many people died in the second most powerful earthquake ever recorded?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "131"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_8.json",
+    "problem": "Question:\nCan people who have celiac eat camel meat?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Yes"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_9.json",
+    "problem": "Question:\nWhat was the final book written by the author of On the Origin of Species?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "The Formation of Vegetable Mould Through the Action of Worms"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_10.json",
+    "problem": "Question:\nWhen was the company that built the first steam locomotive to carry passengers on a public rail line founded?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1823"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_11.json",
+    "problem": "Question:\nWhich Theranos whistleblower is not related to a senior American government official?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Erika Cheung"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_12.json",
+    "problem": "Question:\nWhat is the fastest air-breathing manned aircraft mostly made out of?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Titanium"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_13.json",
+    "problem": "Question:\nWho built the fastest air-breathing manned aircraft?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Lockheed Corporation"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_14.json",
+    "problem": "Question:\nWhen was the author of The Population Bomb born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "May 29, 1932"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_15.json",
+    "problem": "Question:\nWhen did the author of Annabel Lee enlist in the army?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1827"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_16.json",
+    "problem": "Question:\nWhat was the religion of the inventor of the Polio vaccine?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Jewish"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_17.json",
+    "problem": "Question:\nWho was the second wife of the founder of CNN?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Jane Shirley Smith"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_18.json",
+    "problem": "Question:\nWhen did the first prime minister of the Russian Empire come into office?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "November 6, 1905"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_19.json",
+    "problem": "Question:\nWhat is the primary male hormone derived from?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "cholesterol"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_20.json",
+    "problem": "Question:\nThe Filipino statesman who established the government-in-exile during the outbreak of World War II was also the mayor of what city?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Quezon City"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_21.json",
+    "problem": "Question:\nWhere was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Oranienburg, Germany"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_22.json",
+    "problem": "Question:\nWhen was the person who shared the Nobel Prize in Physics in 1954 with Max Born born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "January 8, 1891"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_23.json",
+    "problem": "Question:\nWhat was the founding date of the university in which Plotonium was discovered?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "March 23, 1868"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_24.json",
+    "problem": "Question:\nThe material out of which the Great Sphinx of Giza is made of is mainly composed of what mineral?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "calcite"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_25.json",
+    "problem": "Question:\nThe husband of Lady Godiva was Earl of which Anglic kingdom?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Mercia"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_26.json",
+    "problem": "Question:\nThe machine used to extract honey from honeycombs uses which physical force?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Centrifugal Force"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_27.json",
+    "problem": "Question:\nWhat is the third letter of the top level domain of the military?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "l"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_28.json",
+    "problem": "Question:\nIn what year was the government department where the internet originated at founded?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1947"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_29.json",
+    "problem": "Question:\nThe main actor of Indiana Jones is a licensed what?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "pilot"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_30.json",
+    "problem": "Question:\nWhen was the person after which the Hubble Space Telescope is named after born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "November 20, 1889"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_31.json",
+    "problem": "Question:\nWhen did the person who gave the Checkers speech die?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "April 22, 1994"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_32.json",
+    "problem": "Question:\nWhen was the philosopher that formulated the hard problem of consciousness born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "April 20, 1966"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_33.json",
+    "problem": "Question:\nWhat is the capital of the second largest state in the US by area?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Austin"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_34.json",
+    "problem": "Question:\nWhat is the maximum airspeed (in km/h) of the third fastest bird?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "320 km/h"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_35.json",
+    "problem": "Question:\nWho founded the city where the founder of geometry lived?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Alexander the Great"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_36.json",
+    "problem": "Question:\nWhat is the capital of the country where yoga originated?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "New Delhi"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_37.json",
+    "problem": "Question:\nThe fourth largest city in Germany was originally called what?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Colonia Claudia Ara Agrippinensium"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_38.json",
+    "problem": "Question:\nWhen did Nirvana's second most selling studio album come out?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "September 13, 1993"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_39.json",
+    "problem": "Question:\nWhat was the job of the father of the founder of psychoanalysis?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "wool merchant"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_40.json",
+    "problem": "Question:\nHow much protein in four boiled egg yolks?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "10.8"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_41.json",
+    "problem": "Question:\nWhat is the political party of the American president who entered into the Paris agreement?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Democratic Party"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_42.json",
+    "problem": "Question:\nThe most populous city in Punjab is how large (area wise)?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "310 square kilometers"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_43.json",
+    "problem": "Question:\nWhat was the death toll of the second largest volcanic eruption in the 20th century?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "847"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_44.json",
+    "problem": "Question:\nWhat was the death toll of the most intense Atlantic hurricane?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "52"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_45.json",
+    "problem": "Question:\nWho was the head of NASA during Apollo 11?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Thomas O. Paine"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_46.json",
+    "problem": "Question:\nWho is the father of the father of George Washington?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Lawrence Washington"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_47.json",
+    "problem": "Question:\nWho is the mother of the father of George Washington?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Mildred Warner"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_48.json",
+    "problem": "Question:\nWho is the father of the father of Barack Obama?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Hussein Onyango Obama"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_49.json",
+    "problem": "Question:\nWho is the mother of the father of Barack Obama?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Habiba Akumu Nyanjango"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_50.json",
+    "problem": "Question:\nWho was mayor of New York City when Fiorello H. La Guardia was born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "William Russell Grace"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_51.json",
+    "problem": "Question:\nWho was president of the U.S. when superconductivity was discovered?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "William Howard Taft"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_52.json",
+    "problem": "Question:\nWhen was the person Russ Hanneman is based on born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "July 31, 1958"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_53.json",
+    "problem": "Question:\nWhen was the first location of the world's largest coffeehouse chain opened?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "March 30, 1971"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_54.json",
+    "problem": "Question:\nWho directed the highest grossing film?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "James Cameroon"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_55.json",
+    "problem": "Question:\nWhen was the longest bridge in the world opened?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "30 June 2011"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_56.json",
+    "problem": "Question:\nWhich company was responsible for the largest pharmaceutical settlement?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "GlaxoSmithKline"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_57.json",
+    "problem": "Question:\nIn what year was the tallest self-supporting tower completed?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "2012"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_58.json",
+    "problem": "Question:\nIn what year was the tallest fixed steel structure completed?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1988"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_59.json",
+    "problem": "Question:\nIn what year was the tallest lattice tower completed?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "2012"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_60.json",
+    "problem": "Question:\nIn what year was the current tallest wooden lattice tower completed?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1935"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_61.json",
+    "problem": "Question:\nIn what country is the second tallest statue in the world?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "China"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_62.json",
+    "problem": "Question:\nWhen was the tallest ferris wheel in the world completed?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "2021"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_63.json",
+    "problem": "Question:\nIn what year was the tallest lighthouse completed?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1902"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_64.json",
+    "problem": "Question:\nIn what country is the world largest desalination plant?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Saudi Arabia"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_65.json",
+    "problem": "Question:\nThe most populous national capital city was established in what year?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1045 BC"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_66.json",
+    "problem": "Question:\nThe third largest river (by discharge) in the world is in what countries?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "India and Bangladesh"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_67.json",
+    "problem": "Question:\nWhat is the highest elevation (in meters) of the second largest island in the world?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "4,884 m"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_68.json",
+    "problem": "Question:\nWhat is the length of the second deepest river in the world?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "6,300 km"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_69.json",
+    "problem": "Question:\nIn what country is the third largest stadium in the world?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "United States"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_70.json",
+    "problem": "Question:\nWho is the largest aircraft carrier in the world is named after?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Gerald R. Ford"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_71.json",
+    "problem": "Question:\nIn what year did the oldest cat ever recorded with the Cat of the Year award?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1999"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_72.json",
+    "problem": "Question:\nIn what year was the country that is the third largest exporter of coffee founded?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1810"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_73.json",
+    "problem": "Question:\nWho was the commander for the space mission that had the first spacewalk?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Pavel Belyayev"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_74.json",
+    "problem": "Question:\nWho is the predecessor of the longest-reigning British monarch?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "George VI\n"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_75.json",
+    "problem": "Question:\nIn 2016, who was the host of the longest running talk show?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Jimmy Fallon"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_76.json",
+    "problem": "Question:\nIn 2016, who was the host of the longest running American game show?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Drew Carey"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_77.json",
+    "problem": "Question:\nWho wrote the novel on which the longest running show in Broadway history is based on?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Gaston Leroux"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_78.json",
+    "problem": "Question:\nIn what country was the only cruise line that flies the American flag incorporated in?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Bermuda"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_79.json",
+    "problem": "Question:\nIn what year did work begin on the second longest road tunnel in the world?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "1992"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_80.json",
+    "problem": "Question:\nWhat is the official color of the third oldest surviving university?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Cambridge Blue"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_81.json",
+    "problem": "Question:\nWho succeeded the longest reigning Roman emperor?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Tiberius"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_82.json",
+    "problem": "Question:\nWho preceded the Roman emperor that declared war on the sea?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Tiberius"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_83.json",
+    "problem": "Question:\nWho produced the longest running video game franchise?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "MECC"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_84.json",
+    "problem": "Question:\nWho was the father of the father of psychoanalysis?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Jacob Freud"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_85.json",
+    "problem": "Question:\nWho was the father of the father of empiricism?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Sir Nicholas Bacon"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_86.json",
+    "problem": "Question:\nWho is the father of the father of observational astronomy?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Vincenzo Galilei"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_87.json",
+    "problem": "Question:\nWho is the father of the father of modern Hebrew?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Yehuda Leib"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_88.json",
+    "problem": "Question:\nWho is the father of the father of modern experimental psychology?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Maximilian Wundt"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_89.json",
+    "problem": "Question:\nWho is the father of the originator of cybernetics?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Leo Wiener"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_90.json",
+    "problem": "Question:\nWho is the father of the father of the hydrogen bomb?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Max Teller"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_91.json",
+    "problem": "Question:\nWho was the father of the father of computer science?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Julius Mathison Turing"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_92.json",
+    "problem": "Question:\nWho was the father of the father of behaviorism?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Pickens Butler Watson"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_93.json",
+    "problem": "Question:\nWho was the father of the founder of modern human anatomy?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Anders van Wesel"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_94.json",
+    "problem": "Question:\nWhat was the father of the last surviving Canadian father of Confederation?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Charles Tupper Sr."
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_95.json",
+    "problem": "Question:\nWhen was the person who said “Now, I am become Death, the destroyer of worlds.” born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "April 22, 1904"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_96.json",
+    "problem": "Question:\nWho was the father of the father of information theory?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Claude Sr."
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_97.json",
+    "problem": "Question:\nWhen was the person who delivered the \"Quit India\" speech born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "October 2, 1869"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_98.json",
+    "problem": "Question:\nWhen did the president who warned about the military industrial complex die?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "March 28, 1969"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_99.json",
+    "problem": "Question:\nWhen did the president who said Tear Down This Wall die?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "June 5, 2004"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_100.json",
+    "problem": "Question:\nWhat is the lowest elevation of the longest railway tunnel?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "312 m"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_101.json",
+    "problem": "Question:\nWhen did the person who said \"Cogito, ergo sum.\" die?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "February 11, 1650"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_102.json",
+    "problem": "Question:\nWhen did the person who delivered the Gettysburg Address die?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "April 15, 1865"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_103.json",
+    "problem": "Question:\nWho was governor of Florida during Hurricane Irma?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Rick Scott"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_104.json",
+    "problem": "Question:\nFor which club did the winner of the 2007 Ballon d'Or play for in 2012?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Real Madrid"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_105.json",
+    "problem": "Question:\nWhat's the capital city of the country that was the champion of the 2010 World Cup?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Madrid"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_106.json",
+    "problem": "Question:\nWhen was the anime studio that made Sword Art Online founded?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "May 9, 2005"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_107.json",
+    "problem": "Question:\nWho was the first king of the longest Chinese dynasty?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "King Wu of Zhou"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_108.json",
+    "problem": "Question:\nWho was the last emperor of the dynasty that succeeded the Song dynasty?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Toghon Temür"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_109.json",
+    "problem": "Question:\nWhat's the motto of the oldest California State university?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Powering Silicon Valley"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_110.json",
+    "problem": "Question:\nWhat's the capital of the state that the College of William & Mary is in?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Richmond"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_111.json",
+    "problem": "Question:\nWhat's the capital of the state that Washington University in St. Louis is in?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Jefferson City"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_112.json",
+    "problem": "Question:\nWhat's the capital of the state that Harvard University is in?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Boston"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_113.json",
+    "problem": "Question:\nWhat's the capital of the state that the Space Needle is at?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Olympia"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_114.json",
+    "problem": "Question:\nWhich team won in women's volleyball in the most recent Summer Olympics that was held in London?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Brazil"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_115.json",
+    "problem": "Question:\nWhat is the nickname of the easternmost U.S. state?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Pine Tree State"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_116.json",
+    "problem": "Question:\nWhat is the nickname for the state that is the home to the “Avocado Capital of the World\"?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Golden State"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_117.json",
+    "problem": "Question:\nWhat rocket was used for the mission that landed the first humans on the moon?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Saturn V"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_118.json",
+    "problem": "Question:\nWhen did the war that Neil Armstrong served in end?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "July 27, 1953"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_119.json",
+    "problem": "Question:\nWhat is the nickname for the state that Mount Rainier is located in?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Evergreen State"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_120.json",
+    "problem": "Question:\nWhen was the composer of Carol of the Bells born?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "December 13, 1877"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_121.json",
+    "problem": "Question:\nWho is the father of the scientist at MIT that won the Queen Elizabeth Prize for Engineering in 2013?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Conway Berners-Lee"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_122.json",
+    "problem": "Question:\nWho was the mother of the emperor of Japan during World War I?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Yanagiwara Naruko"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_123.json",
+    "problem": "Question:\nWhich element has an atomic number that is double that of hydrogen?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "Helium"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  },
+  {
+    "unique_id": "bamboogle/test/test_124.json",
+    "problem": "Question:\nWhat was the motto of the Olympics that had Fuwa as the mascots?\n\nAnswer with the short answer phrase. Use the shortest entity, name, date, number, or phrase that answers the question as the final answer.",
+    "answer": [
+      "One World, One Dream"
+    ],
+    "difficulty": null,
+    "metadata": {
+      "source": "bamboogle"
+    }
+  }
+]
